@@ -1,10 +1,18 @@
-# Klasifikasi Status Gizi Bayi berdasarkan Tinggi Badan, Jenis Kelamin, dan Umur
+# Poin - poin Dokumentasi Data Mining
+1. Klasifikasi Status Gizi Bayi berdasarkan Tinggi Badan, Jenis Kelamin, dan Umur
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Workflow dari proyek ini
+2. Permasalahan dari project ini adalah memahami faktor-faktor yang memengaruhi status gizi bayi dengan tujuannya untuk meningkatkan akurasi model decision tree pada dataset ini. Kemudian berikut bagan dari proyek ini
 ![image](https://github.com/user-attachments/assets/8557450b-d1df-48c5-9313-6a26598f28da)
 
+3. Dataset yang memiliki atribut umur dalam satuan bulan, jenis kelamin, tinggi dalam satuan cm. Setelah dilakukan Exploratory Data Analysis, dataset menunjukkan bahwa perempuan lebih rentan terhadap stunting. 
+
+4. Proses Learning / Modelling
+
+5. ![image](https://github.com/user-attachments/assets/85b5140a-ba6b-48e8-bc8b-448ab0ac2cf3)
+
+7. Diskusi hasil dan kesimpulan
 
 ## Persyaratan
 
